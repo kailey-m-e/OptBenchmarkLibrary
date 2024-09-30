@@ -13,5 +13,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   pfns4bo
+   test_functions
