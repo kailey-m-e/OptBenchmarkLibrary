@@ -13,5 +13,5 @@ Contents
 
 .. toctree::
 
-   pfns4bo
+   about
    test_functions
