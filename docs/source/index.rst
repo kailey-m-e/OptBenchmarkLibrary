@@ -14,4 +14,3 @@ Contents
 .. toctree::
 
    about
-   test_functions
